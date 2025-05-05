@@ -1,4 +1,7 @@
 // Convert the temperature from F to C
+//Formula 
+// C = (5.0/9.0) * (fahrenheit - 32)
+
 
 #include<bits/stdc++.h>
 using namespace std;
